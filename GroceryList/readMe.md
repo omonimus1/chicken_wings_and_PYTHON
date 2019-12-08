@@ -6,7 +6,7 @@
 
  `python groceryList.py`
  
- # Nodes
+ # Notes
  
 * Keep the list.txt file in the same directory of the groceryList.py file
  
