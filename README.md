@@ -6,3 +6,4 @@
 * Form registration GUI with tkinter - [Source Code](form_registration_GUI/first_GUI.py)
 * Calculate distance between any two points - [Source Code](distance/points.py)
 
+*  given a natural string in input (in English language) and is able to print out the respective numeric encoding  - [Source Code](DPOneySolution.py)
