@@ -4,7 +4,7 @@ Date: 04/05/2020
 Summary: Python script that having in input a number expressed in words, print out it's numerical version.
 	Es: IN = 'nine' -> Output: 9
 """
-# Thir Part applications
+# Third Part applications
 from word2number import w2n   # pip install word2number -> https://pypi.org/project/word2number/
 
 
