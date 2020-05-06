@@ -1,3 +1,4 @@
+
 ## Chicken wings and python
 
 1. [What you can find in this repository](#What-you-can-find-in-this-repository)
@@ -18,10 +19,13 @@ A part these two main projects, you can find few of the exerices that I have mad
 * [Vocal Personal Assistant](personal-assistant/README.md)
 * [A byte of Computer Vision](computer-vision/README.md)
 * [Rock Scissor or Paper game](rock_scissor_paper/rock_scissor_paper.py)
-* Leap year : check if a given year is a leap year or not - [Source Code](LeapYear/leapYear.py)
+* [Algorithms and Datastructures in Pyhon](algorithm_and_datastructure/)
+* [Leap year : check if a given year is a leap year or not](LeapYear/leapYear.py)
 * [Guess the number game](guess_the_number/guessTheNumber.py)
 * [Calculate distance between any two points](distance/points.py)
 *  [given a natural string in input (in English language) and is able to print out the respective numeric encoding](DPOneySolution.py)
+* [Convert number a number to string, binary, octal and word](number_converter/number_converter.py)
+* [Difference between range and xrange](xrange_or_range/xrange_or_range.py)
 * [Form registration GUI with tkinter](form_registration_GUI/first_GUI.py)
 * [40 Python Interview questions](https://www.guru99.com/python-interview-questions-answers.html)
 
