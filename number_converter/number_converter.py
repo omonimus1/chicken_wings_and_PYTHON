@@ -19,6 +19,7 @@ def convert_number(number_to_convert):
     print('Number in string ' + str(number_to_convert))
     print('Number in words: ' + num2words(number_to_convert))
     print('Number in decimal ' + bin(number_to_convert))
+    print('Number in hexadecimal' + hex(number_to_convert))
     print('Number in oct ' + oct(number_to_convert))
 
 

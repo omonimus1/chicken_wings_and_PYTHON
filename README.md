@@ -18,6 +18,7 @@ A part these two main projects, you can find few of the exerices that I have mad
 
 * [Vocal Personal Assistant](personal-assistant/README.md)
 * [A byte of Computer Vision](computer-vision/README.md)
+* [HackerRank Python solutions](https://github.com/omonimus1/HackerRank-Solutions#Python)
 * [Rock Scissor or Paper game](rock_scissor_paper/rock_scissor_paper.py)
 * [Algorithms and Datastructures in Pyhon](algorithm_and_datastructure/)
 * [Leap year : check if a given year is a leap year or not](LeapYear/leapYear.py)
@@ -28,6 +29,7 @@ A part these two main projects, you can find few of the exerices that I have mad
 * [Difference between range and xrange](xrange_or_range/xrange_or_range.py)
 * [Form registration GUI with tkinter](form_registration_GUI/first_GUI.py)
 * [40 Python Interview questions](https://www.guru99.com/python-interview-questions-answers.html)
+* [Top 100 python Interview questions](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
 
 ## How to contribute
