@@ -23,6 +23,7 @@ A part these two main projects, you can find few of the exerices that I have mad
 * [Calculate distance between any two points](distance/points.py)
 *  [given a natural string in input (in English language) and is able to print out the respective numeric encoding](DPOneySolution.py)
 * [Form registration GUI with tkinter](form_registration_GUI/first_GUI.py)
+* [40 Python Interview questions](https://www.guru99.com/python-interview-questions-answers.html)
 
 
 ## How to contribute
