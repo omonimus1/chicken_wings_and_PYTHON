@@ -17,7 +17,7 @@ def word_to_number_converter():
 		# Print the string converted in number
 		print (w2n.word_to_num(number_to_convert))
 	except:
-		# Error message in case you the input is wrong
+		# Error message in case the inpu type is wrong
 		print('Probably you tried to give me a negative number or a wrong input,' + 
 		'you asked me to manage just natural numbers N')
 		print('try again')
