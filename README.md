@@ -30,6 +30,7 @@ A part these two main projects, you can find few of the exerices that I have mad
 * [Form registration GUI with tkinter](form_registration_GUI/first_GUI.py)
 * [40 Python Interview questions](https://www.guru99.com/python-interview-questions-answers.html)
 * [Top 100 python Interview questions](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+* [String Management](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)
 
 
 ## How to contribute
