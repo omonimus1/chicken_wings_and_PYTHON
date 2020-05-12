@@ -6,28 +6,58 @@
 3. [System requirements](#Requirements)
 4. [Let's connect with me](#Connect-with-me)
 
-
-
 ## What you can find in this repository
+1. [Personal Projects in Python](#Personal-Projects)
+2. [Data structures in Python](#Data-structures-in-Python)
+3. [Coding exercises and games](#Coding-exercises-and-games)
+4. [Coding Inteview Challenges](#Coding-Inteview-Challenges)
+5. [HackerRank Solutions](#HackerRank-solutions)
+6. [Popular Python interview question](#Popular-coding-interview-questions)
 
-Here, you will find the books that I have read about **image processing and computer vision**, notes and useful python programs that you analize and run in your compute, understaing how image process works and learning how modules like pillow e cv2 work (open CV).
+## Personal Projects
 
-You will also see the **personal vocal assistant** that I have created usign Speech-To-Text and Text-To-Speech libraries. 
+|    Name  |  Source code       |
+|----------|:----------------:|
+| Vocal Personal Assistant |[try it](personal-assistant/README.md)|
+| Byte of Computer vision  |[try it](computer-vision/README.md)|
 
-A part these two main projects, you can find few of the exerices that I have made while practising with python. 
+## Data structures in Python 
 
-* [Vocal Personal Assistant](personal-assistant/README.md)
-* [A byte of Computer Vision](computer-vision/README.md)
-* [HackerRank Python solutions](https://github.com/omonimus1/HackerRank-Solutions#Python)
-* [Rock Scissor or Paper game](rock_scissor_paper/rock_scissor_paper.py)
-* [Algorithms and Datastructures in Pyhon](algorithm_and_datastructure/)
-* [Leap year : check if a given year is a leap year or not](LeapYear/leapYear.py)
-* [Guess the number game](guess_the_number/guessTheNumber.py)
-* [Calculate distance between any two points](distance/points.py)
-*  [given a natural string in input (in English language) and is able to print out the respective numeric encoding](DPOneySolution.py)
-* [Convert number a number to string, binary, octal and word](number_converter/number_converter.py)
+|    Name  |  Source code       |
+|----------|:----------------:|
+|Array |[try it](algorithm_and_datastructure/array.py)|
+|List built in implementations |[try it](algorithm_and_datastructure/list_methods_implementation.py)|
+|Stack|[try it](algorithm_and_datastructure/stack.py)|
+|Queue |[try it](algorithm_and_datastructure/queue.py)|
+|Binary Search Tree|[try it](algorithm_and_datastructure/binarySearchTree.py)|
+
+## Coding exercises and games
+
+|    Name  |  Source code       |
+|----------|:----------------:|
+|Rock Scissor or Paper game|[try it](rock_scissor_paper/rock_scissor_paper.py)|
+|Leap year|[try it](LeapYear/leapYear.py)|
+|Guess the number game|[try it](guess_the_number/guessTheNumber.py)|
+|Calculate distance between any two points|[try it](distance/points.py)|
+
+## Coding Inteview Challenges
+
+|    Name  |  Source code       |
+|----------|:----------------:|
+|List compression|[try it](algorithm_and_datastructure/list_compression.py)|
+|Palindome check|[try it](Palindrom_checking/palindrome_string.py)|
+|From word to number |[try it](DPOneySolution.py)|
+|Convert number in binary, string and hexadecimal|[try it](number_converter/number_converter.py)|
+
+## HackerRank solutions
+
+|    Name  |  Source code       |
+|----------|:----------------:|
+| All my hackerank solutions|[View solutions](https://github.com/omonimus1/HackerRank-Solutions#Python)|
+
+
+## Popular coding interview questions
 * [Difference between range and xrange](xrange_or_range/xrange_or_range.py)
-* [Form registration GUI with tkinter](form_registration_GUI/first_GUI.py)
 * [40 Python Interview questions](https://www.guru99.com/python-interview-questions-answers.html)
 * [Top 100 python Interview questions](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 * [String Management](https://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-12--string-manipulation)

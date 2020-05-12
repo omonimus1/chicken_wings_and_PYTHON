@@ -2,7 +2,7 @@
 
 ### What you can find in this folder
 
-You will find the implementation of different data structures and algorithm using Python.
+You will find the implementation of different data structures and algorithms using Python.
 
 ### How to contribute
 1. Fork the repository
