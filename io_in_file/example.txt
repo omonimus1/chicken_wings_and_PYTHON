@@ -1,0 +1,2 @@
+exaple 1
+row 2extra text inside the file

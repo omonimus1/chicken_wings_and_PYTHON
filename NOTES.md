@@ -43,7 +43,13 @@ print(emp.getName(), emp.isEmployee(), emp.getID())
 
 # Lambda
 
-Labda is an anonymous functtions usually very short. 
+Labda is an anonymous function also called also one function. 
+```
+add = lambda a,b : x +b
+print(add(4,8))
+# Output will be: 12
+```
+
 ```
 def cube(y):
     return y*y*y;

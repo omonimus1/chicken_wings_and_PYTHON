@@ -10,7 +10,7 @@
 1. [Personal Projects in Python](#Personal-Projects)
 2. [Data structures in Python](#Data-structures-in-Python)
 3. [Coding exercises and games](#Coding-exercises-and-games)
-4. [Coding Inteview Challenges](#Coding-Inteview-Challenges)
+4. [Few of the coding interview experienced](#few-of-the-coding-Inteview-questons-experienced)
 5. [HackerRank Solutions](#HackerRank-solutions)
 6. [Popular Python interview question](#Popular-coding-interview-questions)
 
@@ -39,11 +39,15 @@
 |Leap year|[try it](LeapYear/leapYear.py)|
 |Guess the number game|[try it](guess_the_number/guessTheNumber.py)|
 |Calculate distance between any two points|[try it](distance/points.py)|
+|Circle object in Python (OOP)|[try it](oop/circle.py)|
+|I/O operations on a file|[try it](io_in_file/io_file_operations.py)|
 
-## Coding Inteview Challenges
+## few of the coding Inteview questons experienced 
 
 |    Name  |  Source code       |
 |----------|:----------------:|
+|Write a coding example using ternary operator|[try it](ternary_operator/ternary_operator.py)|
+|List|[try it](algorithm_and_datastructure/list_compression.py)|
 |List compression|[try it](algorithm_and_datastructure/list_compression.py)|
 |Palindome check|[try it](Palindrom_checking/palindrome_string.py)|
 |From word to number |[try it](DPOneySolution.py)|
